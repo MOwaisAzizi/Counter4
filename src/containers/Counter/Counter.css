@@ -41,25 +41,25 @@
 
   @media screen and (max-width: 1050px) {
     .add2{
-        right: 36vw;
+        right: 35vw;
     }
     .sub2{
-        left: 36vw;
+        left: 35vw;
     }
     .add{
-        right: 47vw;
+        right: 46vw;
     }
     .sub{
-        right: 47vw;
+        right: 46vw;
     }
   }
 
   @media screen and (max-width: 850px) {
     .add2{
-        right: 33vw;
+        right: 30vw;
     }
     .sub2{
-        left: 33vw;
+        left: 30vw;
     }
     .add{
         right: 46vw;
@@ -69,45 +69,24 @@
     }
   }
 
-  @media screen and (max-width: 700px) {
-    .add2{
-        right: 30vw;
-    }
-    .sub2{
-        left: 30vw;
-  }}
+
 
   @media screen and (max-width: 700px) {
     .add2{
-        right: 28vw;
+        right: 27vw;
     }
     .sub2{
-        left: 28vw;
+        left: 27vw;
   }
   .add{
-    right: 45vw;
+    right: 44vw;
 }
 .sub{
-    left: 45vw;
+    right: 44vw;
 }
 }
 
 @media screen and (max-width: 550px) {
-    .add2{
-        right: 25vw;
-    }
-    .sub2{
-        left: 25vw;
-  }
-  .add{
-    right: 43vw;
-}
-.sub{
-    left: 43vw;
-}
-}
-
-@media screen and (max-width: 450px) {
     .add2{
         right: 20vw;
     }
@@ -118,40 +97,55 @@
     right: 42vw;
 }
 .sub{
-    left: 42vw;
+    right: 42vw;
+}
+}
+
+@media screen and (max-width: 450px) {
+    .add2{
+        right: 15vw;
+    }
+    .sub2{
+        left: 15vw;
+  }
+  .add{
+    right: 42vw;
+}
+.sub{
+    right: 42vw;
 }
 }
 
 @media screen and (max-width: 400px) {
     .add2{
-        right: 17vw;
+        right: 12vw;
     }
     .sub2{
-        left: 17vw;
+        left: 12vw;
   }
   .add{
     right: 40vw;
 }
 .sub{
-    left: 40vw;
+    right: 40vw;
 }
 }
 
 @media screen and (max-width: 350px) {
     .add2{
-        right: 8vw;
-        top: 25vh;
+        right: 7vw;
+        top: 23vh;
 
     }
     .sub2{
-        left: 8vw;
-        top: 25vh;
+        left: 7vw;
+        top: 23vh;
   }
   .add{
-    right: 40.5vw;
+    right: 39vw;
 }
 .sub{
-    right: 38vw;
-    top: 42vh;
+    right: 39vw;
+    top: 37vh;
 }
 }
