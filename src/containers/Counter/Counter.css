@@ -1,0 +1,157 @@
+.countainer{
+    position: relative;
+    margin-top: 10px;
+    padding-top: 100px;
+    height: 100vh;
+    color: white;
+}
+.add{
+    position: absolute;
+    top: 70px;
+    z-index: 100000;
+    right: 47.3vw;
+}
+.sub{
+    position: absolute;
+    top: 37vh;
+    z-index: 100000;
+    right: 47vw;
+}
+.add2{
+    position: absolute;
+    top: 23.5vh;
+    z-index: 100000;
+    right: 40vw;
+}
+.sub2{
+    position: absolute;
+    top: 23vh;
+    z-index: 100000;
+    left: 40vw;
+}
+
+@media screen and (max-width: 1200px) {
+    .add2{
+        right: 38vw;
+    }
+    .sub2{
+        left: 38vw;
+    }
+  }
+
+  @media screen and (max-width: 1050px) {
+    .add2{
+        right: 36vw;
+    }
+    .sub2{
+        left: 36vw;
+    }
+    .add{
+        right: 47vw;
+    }
+    .sub{
+        right: 47vw;
+    }
+  }
+
+  @media screen and (max-width: 850px) {
+    .add2{
+        right: 33vw;
+    }
+    .sub2{
+        left: 33vw;
+    }
+    .add{
+        right: 46vw;
+    }
+    .sub{
+        right: 46vw;
+    }
+  }
+
+  @media screen and (max-width: 700px) {
+    .add2{
+        right: 30vw;
+    }
+    .sub2{
+        left: 30vw;
+  }}
+
+  @media screen and (max-width: 700px) {
+    .add2{
+        right: 28vw;
+    }
+    .sub2{
+        left: 28vw;
+  }
+  .add{
+    right: 45vw;
+}
+.sub{
+    left: 45vw;
+}
+}
+
+@media screen and (max-width: 550px) {
+    .add2{
+        right: 25vw;
+    }
+    .sub2{
+        left: 25vw;
+  }
+  .add{
+    right: 43vw;
+}
+.sub{
+    left: 43vw;
+}
+}
+
+@media screen and (max-width: 450px) {
+    .add2{
+        right: 20vw;
+    }
+    .sub2{
+        left: 20vw;
+  }
+  .add{
+    right: 42vw;
+}
+.sub{
+    left: 42vw;
+}
+}
+
+@media screen and (max-width: 400px) {
+    .add2{
+        right: 17vw;
+    }
+    .sub2{
+        left: 17vw;
+  }
+  .add{
+    right: 40vw;
+}
+.sub{
+    left: 40vw;
+}
+}
+
+@media screen and (max-width: 350px) {
+    .add2{
+        right: 8vw;
+        top: 25.5vh;
+
+    }
+    .sub2{
+        left: 8vw;
+        top: 25vh;
+  }
+  .add{
+    right: 40.5vw;
+}
+.sub{
+    right: 40.5vw;
+    top: 43.5vh;
+}
+}
