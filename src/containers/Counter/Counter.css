@@ -140,7 +140,7 @@
 @media screen and (max-width: 350px) {
     .add2{
         right: 8vw;
-        top: 25.5vh;
+        top: 25vh;
 
     }
     .sub2{
@@ -151,7 +151,7 @@
     right: 40.5vw;
 }
 .sub{
-    right: 40.5vw;
-    top: 43.5vh;
+    right: 38vw;
+    top: 42vh;
 }
 }
